@@ -12,3 +12,15 @@ The output of the running scripts should be as it follows:
 4
 3
 ```
+
+## Stack
+
+The output of the running scripts should be as it follows:
+
+```shell
+3
+2
+1
+None
+4
+```
