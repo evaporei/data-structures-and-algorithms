@@ -24,3 +24,16 @@ The output of the running scripts should be as it follows:
 None
 4
 ```
+
+## Queue
+
+The output of the running scripts should be as it follows:
+
+```shell
+1
+1
+2
+3
+4
+5
+```
